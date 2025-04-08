@@ -89,25 +89,25 @@ font-family: 'Nanum Myeongjo', serif;*/
   }
 @font-face{
   font-family: SB_L;
-  src:url('../font/sb_l.woff') forma('woff');  
+  src:url('../font/sb_l.woff') format('woff');  
   }
 
 /* <나눔스퀘어> */
 @font-face{
   font-family: Nanum Square EB;
-  src:url('../font/NanumSquareEB.woff') forma('woff');  
+  src:url('../font/NanumSquareEB.woff') format('woff');  
   }
 @font-face{
   font-family: Nanum Square B;
-  src:url('../font/NanumSquareB.woff') forma('woff');  
+  src:url('../font/NanumSquareB.woff') format('woff');  
   }
 @font-face{
   font-family: Nanum Square M;  
-  src:url('../font/NanumSquareR.woff') forma('woff');  
+  src:url('../font/NanumSquareR.woff') format('woff');  
   }
 @font-face{
   font-family: Nanum Square L;  
-  src:url('../font/NanumSquareL.woff') forma('woff');  
+  src:url('../font/NanumSquareL.woff') format('woff');  
   }
 
 /* <Gmarket 산스 OTF> */
